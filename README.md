@@ -13,8 +13,8 @@ This program is also using an ESP8266 from adafruit, other versions may not be 5
 --------------------------------------------------------------
 BE CAUTIOUS WHEN WIRING THE BOARD!!
 ---------------------------------------------------------------
-Alternative to ESP8266 is a Pi Zero W with an ethernet hat to connect to the thernet port and UART 1. Using both allows for uploading
-photon files and communication and control. Possibly could do everything other one or the other but not tested.
+Alternative to ESP8266 is a Pi Zero W with an ethernet hat to connect to the ethernet port and UART 1. Using both allows for uploading
+photon files and control. Possibly could do everything with one or the other but not tested.
 
 _____________________________________________________________________________________________________________________________________
 I do not take full credit for anything. This is for refrence for others that have asked me to upload these documents. 
